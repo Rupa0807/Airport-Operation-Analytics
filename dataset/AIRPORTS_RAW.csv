@@ -1,0 +1,7 @@
+﻿AIRPORT_ID,AIRPORT_NAME,LOCATION,RUNWAY_CAPACITY_PER_HOUR,OPERATIONAL_HOURS
+AMS,Amsterdam Airport Schiphol,Netherlands,45,24
+LHR,London Heathrow,United Kingdom,48,24
+FRA,Frankfurt Airport,Germany,42,24
+CDG,Paris Charles de Gaulle,France,44,24
+MUC,Munich Airport,Germany,38,24
+BCN,Barcelona-El Prat,Spain,36,24
